@@ -1,6 +1,8 @@
 # Garmin Strength Data Extractor
 
-This project parses and extracts structured data from exported Garmin Connect `.fit` files specifically for **strength training activities**. It outputs a clean `.csv` file (or optionally `.xlsx`) with key metrics per set, including reps, weight, and training volume.
+If you're like me and want to analyze your gym per-exercise trends across weight and volume, you'll know that this is not natively possible inside Garmin Connect.
+
+This project parses and extracts structured data from exported Garmin Connect `.fit` files specifically for **strength training activities**. It outputs a clean `.csv` file with key metrics per set, including reps, weight, and training volume. 
 
 ## 🏋️‍♂️ Purpose
 
@@ -37,6 +39,8 @@ pip install pandas fitparse tqdm
 ```
 
 ## 📂 Usage
+
+Use something like [garmin-connect-export](https://github.com/pe-st/garmin-connect-export) to retrieve your activites in `.fit` format. 
 
 Place all your `.fit` files in a `fit/` folder and run:
 
