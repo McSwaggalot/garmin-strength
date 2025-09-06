@@ -1,0 +1,107 @@
+2025-05-26 12:34:03,327 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.3
+2025-05-26 12:34:03,327 [INFO   ] New logfile level: INFO
+2025-05-26 12:34:03,327 [WARNING] Output directory /Users/edgarvoit/MyActivitiesFIT already exists. Will skip already-downloaded files and append to the CSV file.
+2025-05-26 12:34:07,094 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-05-26 12:34:07,462 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-05-26 12:34:08,471 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=560
+2025-05-26 12:34:12,723 [INFO   ] Expected 560 activities, got 569.
+2025-05-26 12:39:44,624 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.3
+2025-05-26 12:39:44,624 [INFO   ] New logfile level: INFO
+2025-05-26 12:39:44,624 [WARNING] Output directory /Users/edgarvoit/MyActivitiesFIT already exists. Will skip already-downloaded files and append to the CSV file.
+2025-05-26 12:39:48,532 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-05-26 12:39:48,829 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-05-26 12:39:49,864 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=560
+2025-05-26 12:39:54,469 [INFO   ] Expected 560 activities, got 569.
+2025-05-26 12:47:01,882 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.3
+2025-05-26 12:47:01,882 [INFO   ] New logfile level: INFO
+2025-05-26 12:47:01,882 [WARNING] Output directory /Users/edgarvoit/MyActivitiesFIT already exists. Will skip already-downloaded files and append to the CSV file.
+2025-05-26 12:47:05,134 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-05-26 12:47:05,451 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-05-26 12:47:06,461 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=560
+2025-05-26 12:47:10,945 [INFO   ] Expected 560 activities, got 569.
+2025-05-26 12:59:07,506 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.3
+2025-05-26 12:59:07,506 [INFO   ] New logfile level: INFO
+2025-05-26 12:59:07,506 [WARNING] Output directory /Users/edgarvoit/MyActivitiesFIT already exists. Will skip already-downloaded files and append to the CSV file.
+2025-05-26 12:59:11,150 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-05-26 12:59:11,486 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-05-26 12:59:12,522 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=560
+2025-05-26 12:59:16,428 [INFO   ] Expected 560 activities, got 569.
+2025-05-26 13:10:30,082 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.3
+2025-05-26 13:10:30,083 [INFO   ] New logfile level: INFO
+2025-05-26 13:10:30,083 [WARNING] Output directory /Users/edgarvoit/MyActivitiesFIT already exists. Will skip already-downloaded files and append to the CSV file.
+2025-05-26 13:10:34,463 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-05-26 13:10:34,725 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-05-26 13:10:35,831 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=560
+2025-05-26 13:10:40,029 [INFO   ] Expected 560 activities, got 569.
+2025-05-26 13:17:41,759 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.3
+2025-05-26 13:17:41,759 [INFO   ] New logfile level: INFO
+2025-05-26 13:17:41,759 [WARNING] Output directory /Users/edgarvoit/MyActivitiesFIT already exists. Will skip already-downloaded files and append to the CSV file.
+2025-05-26 13:17:45,176 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-05-26 13:17:45,495 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-05-26 13:17:46,493 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=560
+2025-05-26 13:17:50,274 [INFO   ] Expected 560 activities, got 569.
+2025-05-26 13:22:26,880 [INFO   ] CSV file written.
+2025-05-26 18:40:24,060 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.3
+2025-05-26 18:40:24,060 [INFO   ] New logfile level: INFO
+2025-05-26 18:40:24,060 [WARNING] Output directory /Users/edgarvoit/MyActivitiesFIT already exists. Will skip already-downloaded files and append to the CSV file.
+2025-05-26 18:40:27,654 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-05-26 18:40:27,943 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-05-26 18:40:29,068 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=600
+2025-05-26 18:40:37,436 [INFO   ] Expected 600 activities, got 614.
+2025-05-26 18:46:02,665 [INFO   ] CSV file written.
+2025-06-10 10:11:27,061 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.4
+2025-06-10 10:11:27,061 [INFO   ] New logfile level: INFO
+2025-06-10 10:11:27,061 [WARNING] Output directory /Users/edgarvoit/MyActivitiesFIT already exists. Will skip already-downloaded files and append to the CSV file.
+2025-06-10 10:11:30,580 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-06-10 10:11:30,793 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-06-10 10:11:31,972 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=600
+2025-06-10 10:11:38,318 [INFO   ] Expected 600 activities, got 614.
+2025-06-11 23:29:24,205 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.4
+2025-06-11 23:29:24,205 [INFO   ] New logfile level: INFO
+2025-06-11 23:29:24,205 [WARNING] Output directory /Users/edgarvoit/PycharmProjects/garmin-strength/fit_files already exists. Will skip already-downloaded files and append to the CSV file.
+2025-06-11 23:29:27,629 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-06-11 23:29:27,862 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-06-11 23:29:29,462 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=100
+2025-06-11 23:29:31,526 [INFO   ] Expected 100 activities, got 102.
+2025-06-11 23:30:25,444 [INFO   ] CSV file written.
+2025-06-16 14:47:58,780 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.4
+2025-06-16 14:47:58,780 [INFO   ] New logfile level: INFO
+2025-06-16 14:47:58,780 [WARNING] Output directory /Users/edgarvoit/PycharmProjects/garmin-strength/fit_files already exists. Will skip already-downloaded files and append to the CSV file.
+2025-06-16 14:48:01,934 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-06-16 14:48:02,170 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-06-16 14:48:03,241 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=100
+2025-06-16 14:48:05,791 [INFO   ] Expected 100 activities, got 102.
+2025-06-16 14:48:57,538 [INFO   ] CSV file written.
+2025-07-07 11:51:48,074 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.4
+2025-07-07 11:51:48,074 [INFO   ] New logfile level: INFO
+2025-07-07 11:51:48,074 [WARNING] Output directory /Users/edgarvoit/PycharmProjects/garmin-strength/fit_files already exists. Will skip already-downloaded files and append to the CSV file.
+2025-07-07 11:51:51,438 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-07-07 11:51:51,782 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-07-07 11:51:53,486 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=100
+2025-07-07 11:52:30,712 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.4
+2025-07-07 11:52:30,712 [INFO   ] New logfile level: INFO
+2025-07-07 11:52:30,712 [WARNING] Output directory /Users/edgarvoit/PycharmProjects/garmin-strength/fit_files already exists. Will skip already-downloaded files and append to the CSV file.
+2025-07-07 11:52:34,139 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-07-07 11:52:34,317 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-07-07 11:52:35,492 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=100
+2025-07-08 19:23:04,757 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.5
+2025-07-08 19:23:04,758 [INFO   ] New logfile level: INFO
+2025-07-08 19:23:04,758 [WARNING] Output directory /Users/edgarvoit/PycharmProjects/garmin-strength/fit_files already exists. Will skip already-downloaded files and append to the CSV file.
+2025-07-08 19:23:09,819 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-07-08 19:23:10,392 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-07-08 19:23:11,818 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=100
+2025-07-30 17:08:29,039 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.5
+2025-07-30 17:08:29,040 [INFO   ] New logfile level: INFO
+2025-07-30 17:08:29,040 [WARNING] Output directory /Users/edgarvoit/PycharmProjects/garmin-strength/fit_files already exists. Will skip already-downloaded files and append to the CSV file.
+2025-07-30 17:08:33,003 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-07-30 17:08:33,265 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-07-30 17:08:34,871 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=100
+2025-07-30 17:08:37,496 [INFO   ] Expected 100 activities, got 105.
+2025-07-30 17:09:41,084 [INFO   ] CSV file written.
+2025-09-05 12:38:59,766 [INFO   ] Starting gcexport.py version 4.6.0, using Python version 3.13.5
+2025-09-05 12:38:59,766 [INFO   ] New logfile level: INFO
+2025-09-05 12:38:59,766 [WARNING] Output directory /Users/edgarvoit/PycharmProjects/garmin-strength/fit_files already exists. Will skip already-downloaded files and append to the CSV file.
+2025-09-05 12:39:03,760 [INFO   ] Profile page https://connect.garmin.com/userprofile-service/socialProfile
+2025-09-05 12:39:04,285 [INFO   ] Userstats page https://connect.garmin.com/userstats-service/statistics/46cf9ecf-62df-4152-8dee-16c9ffe00757
+2025-09-05 12:39:05,293 [INFO   ] Activity list URL https://connect.garmin.com/activitylist-service/activities/search/activities?start=0&limit=100
+2025-09-05 12:39:07,261 [INFO   ] Expected 100 activities, got 105.
